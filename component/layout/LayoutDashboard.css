@@ -1,0 +1,58 @@
+
+.mainHeaderDashboard{
+    background-color: rgb(240, 196, 255);
+    padding:10px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+
+
+}
+.barndContain{
+    
+    display: flex;
+    align-items: center;
+    background-color: wheat;
+   justify-content: space-between;
+    
+
+
+}
+.txtBrandName{
+    font-size: 30px;
+    font-weight: bold;
+
+
+
+}
+.txtSubBrandName{
+    font-size: 20px;
+    font-weight: bold;
+    color: bold;
+
+
+
+}
+.menu{
+    list-style-type: none;
+    display: flex;
+
+
+
+}
+.menuItem {
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+
+
+
+
+}
+.menuItem :hover{
+    background-color: lightgrey;
+    color: hotpink;
+
+
+
+}

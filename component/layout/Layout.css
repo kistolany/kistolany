@@ -1,0 +1,53 @@
+
+.mainHeader{
+    background-color: bisque;
+    padding:10px;
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+.barndContain{
+    display: flex;
+    align-items: center;
+
+
+}
+.txtBrandName{
+    font-size: 26px;
+    font-weight: bold;
+
+
+
+}
+.txtSubBrandName{
+    font-size: 12px;
+    font-weight: bold;
+    color: grey;
+
+
+
+}
+.menu{
+    list-style-type: none;
+    display: flex;
+
+
+
+}
+.menuItem {
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+
+
+
+}
+.menuItem :hover{
+    background-color: lightgrey;
+    color: hotpink;
+
+
+
+}
